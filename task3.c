@@ -1,5 +1,5 @@
 /*
-   Task 3 - Training school
+   Task 3 - Week 5 exercise session for course 02211
    Author: Luca Pezzarossa (lpez@dtu.dk) Copyright: DTU, BSD License
 */
 
